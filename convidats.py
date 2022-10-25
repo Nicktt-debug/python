@@ -14,3 +14,6 @@ else:
 
 print ("numero de personas en tabla extra : " , taulasobre)
 #print("tablas de 12: ", taulasde12)
+# 
+# 
+# //convert years months and days  into days in python ?
