@@ -25,6 +25,8 @@
 # Demanar al usuari que introdueixi un nombre binari
 nombre_binari = input("Introdueix un nombre binari: ")
 
+# Comprovar que el nombre binari té 8 dígits
+a, b , c , d , e , f , g , h = nombre_binari
 
 # Convertir el nombre binari a un valor enter
 nombre_decimal = int(nombre_binari, 2)

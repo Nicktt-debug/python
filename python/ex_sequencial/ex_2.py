@@ -36,9 +36,4 @@ pi = 3.14
 a1 = pi * r1**2
 a2 = pi * r2**2
 
-
-print(int(a1 == a2 ))
-
-
-
-
+print(int(a1 == a2))

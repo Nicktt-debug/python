@@ -19,11 +19,12 @@
 #						Entrada 		Sortida
 #		Execució 1         3.14				4
 #		Execució 2		   2.5			    3
-
+#		Execució 3 		   4			    4
 
 
 n = float(input("Dime un numero : "))
 
-m = (n % 1) + n
 
-print(int(m))
+m = int(-(-n // 1))
+
+print(m)
